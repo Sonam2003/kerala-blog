@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color:black
+}
+*{
+    box-sizing: border-box;
+}
+.place_imag{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+    height: 85vh;
+    background-image: url("maxresdefault.jpg");
+    background-size: cover;
+}
+.placetext{
+    color: antiquewhite;
+}
